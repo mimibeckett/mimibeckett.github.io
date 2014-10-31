@@ -5,7 +5,7 @@ tags: [about, Academic, profile, palaeontology]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: header1.jpg
+  feature: sample-image-2.jpg
   credit: Mimi Beckett
   creditlink: 
 ---
