@@ -2,8 +2,8 @@
 
 title:            Mimi Beckett
 locale:           en_GB
-url:              http://localhost:4000
-#url:              http://mimibeckett.me
+#url:              http://localhost:4000
+url:              http://mimibeckett.me
 
 # Jekyll configuration
 
