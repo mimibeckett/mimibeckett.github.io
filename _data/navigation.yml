@@ -1,7 +1,7 @@
 # Site navigation links
 
-#  - title: Research
- # url: /profile/
+- title: Profile
+  url: /profile/
   
 - title: Publications
   url: /publications/
