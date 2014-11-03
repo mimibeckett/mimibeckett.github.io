@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: header.jpg
+  feature:header.jpg
 ---
 
 test
