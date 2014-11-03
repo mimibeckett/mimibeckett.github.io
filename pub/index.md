@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: IMG_0680.jpg
+  feature: IMG_1243.jpg
 ---
 
 # Conference Posters
