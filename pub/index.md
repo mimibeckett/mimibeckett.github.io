@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Publications
-tags: [publications, papers, palaeontology]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: "Publications"
+date: 
+modified:
+excerpt:
+tags: []
 image:
   feature:IMG_0680.jpg
-  credit: Mimi Beckett
-  creditlink: 
 ---
-
 
 # Conference Posters
 
