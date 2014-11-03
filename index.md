@@ -3,7 +3,7 @@ layout: page
 title: About me
 tags: [about, Academic, profile, palaeontology]
 image:
-  feature: 
+  feature: header.jpg
   credit: Mimi Beckett
   creditlink: 
 ---

@@ -5,8 +5,8 @@ date:
 modified:
 excerpt:
 tags: []
-image: header.jpg
-  feature:
+image:
+  feature: header.jpg
 ---
 
 test
