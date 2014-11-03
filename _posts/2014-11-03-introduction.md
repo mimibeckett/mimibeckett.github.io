@@ -16,6 +16,6 @@ This is just a short post to introduce myself. As you have probably guessed from
 
 So what is a DTP? The idea is that you don't get assigned a project prior to arriving at university but are given a place based on ability and then develop a project with your supervisors over the first term or so. Whilst we are developing our project we are doing core courses and learning about various strands of environmental research with seminars and classes. So far we have done Earth Observation, a bit of statistics and a whole host of introduction to environmental research topics which generally makes for pretty busy weeks. 
 
-As part of our weekly schedule we have to write a blog which are posted here. So some of those will appear up here in the next term, and then after that I will hopefully move on to blogging about life doing a DPhil and my research. 
+As part of our weekly schedule we have to write a blog, some of which are posted [here](http://www.environmental-research.ox.ac.uk/blog/). So some of those will appear up here in the next term, and then after that I will hopefully move on to blogging about life doing a DPhil and my research. 
 
 Mimi
