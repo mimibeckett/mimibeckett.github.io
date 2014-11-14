@@ -3,7 +3,7 @@ layout: post
 title: "What Is a 'Critical Moment' in Earth History?"
 modified:
 categories: 
-excerpt:
+excerpt: I spent 4 years studying geology so when posed that question I immediately think of mass extinctions, or large igneous provinces or the origin of life on earth, things that occur on timescales of millions of years. However this week when we were posed that same question in one of our lectures it highlighted how different the perspectives of those who are on this course are. Some interpret this question very differently, thinking of ideas including the industrial revolution and the development of agriculture. Whilst I personally would argue that these are not major events in the history of the Earth, they are obviously major events in *our* history, and we (humans) are in ourselves likely to be a major event in the history of the Earth.
 tags: []
 image:
   feature:
