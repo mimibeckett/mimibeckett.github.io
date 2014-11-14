@@ -1,0 +1,20 @@
+---
+layout: post
+title: "How Do We Replace 'Dirty Fuels'?"
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+date: 2014-11-14T15:42:22+00:00
+---
+
+Despite the harm they cause to our environment, and the shortage of them, fossil fuels are hugely important to society today. As I type this I am using a device that is based largely on fossil fuel and natural resource extraction. Most people use petrol to get to work, and we all rely on electricity to function daily and do our research. Some of the most important things we use oil for are plastic and medicine. Given this, how do we manage our need for fossil fuels and reduce our impact on the environment? 
+
+<br/>According to the 5th IPCC report the main contributor to the CO2 budget at the moment is China. 10 years ago it was the USA. In the “developed world” we used fossil fuels to give rise to the industrial revolution and fuel our economic growth. We had it good for a couple of hundred years, now it is their turn to grow and develop and do we have any moral right to stop them? How can we stand up and say you aren’t allowed to use fossil fuels to develop because it ruins our climate when up until this point we are the ones that have caused climate change. We really don’t have the high ground in this situation. With the further complication of massive population growth and demand for resources, particularly in Asia and then Africa, we need to meet the energy needs of the world somehow. 
+<br/>Given we therefore need fossil fuels to some extent we certainly need to reduce our dependence on the dirtiest ones that cause the widest damage, environmentally and socially. Coal is increasing as a proportion of the global energy budget, which is a huge concern as it is the dirtiest fuel both in terms of emissions and in terms of worker safety and conditions. So what are we going to replace this coal with and still to meet the world’s energy needs? 
+<br/>
+We cannot increase renewables fast enough to fully meet this demand and so there will be a transition period over which there will be lots of fossil fuels in the energy budget of the world. So where should we get these fossil fuels from? This is not just a case of where can we can source them but it is also has economic, political and social considerations. At the moment there is concern about Russian gas reaching Europe through the Ukraine, which suggests that we should develop more stable resources closer to home incase we lose that source of our gas. There has been recent press about new oil and gas fields in the North Sea, but ultimately that is not a huge resource. In addition to the North Sea reserves there is huge debate in the UK regarding ‘fracking’ which has the potential to be a large gas resource for the UK. Should we go and drill in the Arctic and Antarctic? Personally I would rather we didn’t, but if we want to continue our levels of consumption we will need to consider how we are going to supply this.
+<br/>Some of the biggest questions in environmental research surround these questions. How should we provide resources for our increasing population, particularly those developing fast? Is there misinformation in science surrounding these kind of issues? Should one country control the supply of a particular natural resource? Many of these are questions that our generation of researchers will need to look at, but also need to be looked at in the context of wider society and the political landscape. Part of the aim of this DTP is to expose the next generation of Environmental Researchers to the broad questions in the Environmental Sciences and look at these in a wider context. We will be discussing some of these topics in a series of public Grand Challenges Seminars next term, more information (topics, speakers, location etc) coming soon!<br/>
+*This post is based on the 4th Week lectures of the DTP Environmental Research in Oxford.*
