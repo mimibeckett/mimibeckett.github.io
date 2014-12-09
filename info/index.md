@@ -11,7 +11,9 @@ image:
 
 ###**DPhil Project**
 
-"Pelagia (Teleostei: Acanthomorpha) as a non-analogue adaptive radiation." - *Supervisors: Dr Matt Friedman and Dr Zerina Johanson*
+"Pelagia (Teleostei: Acanthomorpha) as a non-analogue adaptive radiation." 
+
+*Supervisors: Dr Matt Friedman and Dr Zerina Johanson*
 
 <br/>
 
@@ -20,7 +22,9 @@ Broadly my DPhil aims to investigage the relationships of Pelagia and investigat
 ###**4th Year Master's Project 2013-2014**
 
 
-"Relationships and divergence times in lizardfishes (Aulopiformes): new insights from the English Chalk, London Clay, and Maastricht Formation." - *Supervisor: Matt Friedman*
+"Relationships and divergence times in lizardfishes (Aulopiformes): new insights from the English Chalk, London Clay, and Maastricht Formation." 
+
+*Supervisor: Matt Friedman*
 
 <br/>
 
