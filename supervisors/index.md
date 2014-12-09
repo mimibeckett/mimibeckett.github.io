@@ -9,4 +9,4 @@ image:
   feature: IMG_0680.jpg
 ---
 
-Until I am officially assigned a project on the NERC DTP my supervisors are not set, however I am developing a project with Matt Friedman and will most likely be working within the [Friedman Lab in Oxford](https://sites.google.com/site/friedmanlaboxford/home).
+I am co-supervised by [Matt Friedman](http://www.earth.ox.ac.uk/people/profiles/academic/mattf) (Oxford) and [Zerina Johanson](http://www.nhm.ac.uk/research-curation/about-science/staff-directory/earth-sciences/z-johanson/) (Natural History Museum, London). I am working within the [Friedman Lab in Oxford](https://sites.google.com/site/friedmanlaboxford/home).
