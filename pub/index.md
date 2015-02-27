@@ -18,7 +18,7 @@ Friedman, M., **Beckett, H. T.**, Brazeau, M., Close, R., Giles, S. & Johanson, 
 
 # Conference Talks
 
-**Beckett, H. T.** and Friedman, M., Decoding the Relationships of Lizardfishes (Aulopiformes). *(Oxford Geology Group 2014 Annual Colloquium – Young Geoscientist Competition)*
+**Beckett, H. T.** and Friedman, M., 2014. Decoding the Relationships of Lizardfishes (Aulopiformes). *(Oxford Geology Group 2014 Annual Colloquium – Young Geoscientist Competition)*
 
 <br>
 Friedman, M., **Beckett, H. T.**, Close, R., Delbarre, D., & Johanson, Z. 2014. What Woodward did not see: bony fishes of the English Chalk  and London Clay revealed by CT scanning. *(Woodward150 Symposium, NHM London)*.
