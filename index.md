@@ -12,7 +12,7 @@ I am a first year DPhil student in the Department of Earth Sciences, Oxford. I a
 
 <br/> 
 
-My research interests lie broadly in comparative anatomy, phylogeny and evolutionary processes of various teleost groups. I have experience using computed tomography (CT) to produce 3D models of fossils, and incorporating this data into combined morphological and molecular datasets. I have used both parsimony and bayesian analysis to assess phylogenetic relationships. As part of my DPhil I am looking to broaden my statistical methods and I am currently developing my skills in R. 
+My research interests lie broadly in comparative anatomy, phylogeny and evolutionary processes of various teleost groups. I have experience using computed tomography (CT) to produce 3D models of fossils, and incorporating this data into combined morphological and molecular datasets. I have used both parsimony and Bayesian analysis to assess phylogenetic relationships. As part of my DPhil I am looking to broaden my statistical methods and I am currently developing my skills in R. 
 
 <br/> 
 
