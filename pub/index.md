@@ -18,6 +18,12 @@ Friedman, M., **Beckett, H. T.**, Brazeau, M., Close, R., Giles, S. & Johanson, 
 
 # Conference Talks
 
+**Beckett, H. T.** and Friedman, M., 2015. Revised relationships of fossil Aulopiformes: implications for habitat shifts over the Cretaceous-Palaeogene boundary. *(Progressive Palaeontology 2015) - Special Mention* 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjQYavLCZNs" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 **Beckett, H. T.** and Friedman, M., 2014. Decoding the Relationships of Lizardfishes (Aulopiformes). *(Oxford Geology Group 2014 Annual Colloquium – Young Geoscientist Competition)*
 
 <br>
