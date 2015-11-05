@@ -9,8 +9,14 @@ image:
   feature: IMG_0680.jpg
 ---
 
+# Publications
+
+<br>
+**Beckett, H. T.** & Friedman, M. 2015. The one that got away from Smith Woodward: cranial anatomy of *Micrornatus* (Acanthomorpha: Scombridae) revealed using computed microtomography. *In*: Johanson, Z., Barrett, P. M., Richter, M. & Smith, M. (eds) *Arthur Smith Woodward: His Life and Influence on Modern Vertebrate Palaeontology.* Geological Society, London, Special Publications, 430. First published online November 5th, 2015, [http://doi:10.1144/SP430.16](http://doi:10.1144/SP430.16). 
+
 # Conference Posters
 
+<br>
 **Beckett, H. T.** & Friedman, M. 2014. Relationships and divergence times in lizardfishes (Aulopiformes): new insights from computed tomography. *(Woodward150 Symposium, NHM London)*.
 
 <br>
@@ -18,12 +24,16 @@ Friedman, M., **Beckett, H. T.**, Brazeau, M., Close, R., Giles, S. & Johanson, 
 
 # Conference Talks
 
-**Beckett, H. T.** and Friedman, M., 2015. Revised relationships of fossil Aulopiformes: implications for habitat shifts over the Cretaceous-Palaeogene boundary. *(Progressive Palaeontology 2015) - Special Mention* 
+<br>
+**Beckett, H. T.** and Friedman, M., 2015. Revisiting *Landanichthys*, the oldest fossil mackerel?. *(SVPCA 2015, Southampton)*
+
+<br>
+**Beckett, H. T.** and Friedman, M., 2015. Revised relationships of fossil Aulopiformes: implications for habitat shifts over the Cretaceous-Palaeogene boundary. *(Progressive Palaeontology 2015, Bristol) - Special Mention* 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjQYavLCZNs" frameborder="0" allowfullscreen></iframe>
 
 <br>
-**Beckett, H. T.** and Friedman, M., 2014. Decoding the Relationships of Lizardfishes (Aulopiformes). *(Oxford Geology Group 2014 Annual Colloquium – Young Geoscientist Competition)*
+**Beckett, H. T.** and Friedman, M., 2014. Decoding the Relationships of Lizardfishes (Aulopiformes). *(Oxford Geology Group 2014 Annual Colloquium – Young Geoscientist Competition, Oxford)*
 
 <br>
 Friedman, M., **Beckett, H. T.**, Close, R., Delbarre, D., & Johanson, Z. 2014. What Woodward did not see: bony fishes of the English Chalk  and London Clay revealed by CT scanning. *(Woodward150 Symposium, NHM London)*.
