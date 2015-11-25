@@ -9,14 +9,14 @@ image:
   feature: IMG_0680.jpg
 ---
 
-<ol reversed>
 <br>
-<li>Friedman, M., <b>Beckett, H. T.</b>, Close, R. A. & Johanson, Z. 2015. The English Chalk and London Clay: two remarkable British bony fish Lagerstatten. <i>In</i>: Johanson, Z., Barrett, P. M., Richter, M. & Smith, M. (eds) <i>Arthur Smith Woodward: His Life and Influence on Modern Vertebrate Palaeontology.</i> Geological Society, London, Special Publications, 430. First published online November 23rd, 2015, http://doi:10.1144/SP430.18.</li>
+**2015**
 
 <br>
-<li>**Beckett, H. T.** & Friedman, M. 2015. The one that got away from Smith Woodward: cranial anatomy of *Micrornatus* (Acanthomorpha: Scombridae) revealed using computed microtomography. *In*: Johanson, Z., Barrett, P. M., Richter, M. & Smith, M. (eds) *Arthur Smith Woodward: His Life and Influence on Modern Vertebrate Palaeontology.* Geological Society, London, Special Publications, 430. First published online November 5th, 2015, http://doi:10.1144/SP430.16.</li>
+[2.] Friedman, M., **Beckett, H. T.**, Close, R. A. & Johanson, Z. 2015. The English Chalk and London Clay: two remarkable British bony fish Lagerstatten. *In*: Johanson, Z., Barrett, P. M., Richter, M. & Smith, M. (eds) *Arthur Smith Woodward: His Life and Influence on Modern Vertebrate Palaeontology.* Geological Society, London, Special Publications, 430. First published online November 23rd, 2015, http://doi:10.1144/SP430.18.
 
-</ol>
+<br>
+[1.] **Beckett, H. T.** & Friedman, M. 2015. The one that got away from Smith Woodward: cranial anatomy of *Micrornatus* (Acanthomorpha: Scombridae) revealed using computed microtomography. *In*: Johanson, Z., Barrett, P. M., Richter, M. & Smith, M. (eds) *Arthur Smith Woodward: His Life and Influence on Modern Vertebrate Palaeontology.* Geological Society, London, Special Publications, 430. First published online November 5th, 2015, http://doi:10.1144/SP430.16.
 
 # Conference Posters
 
