@@ -8,7 +8,7 @@ image:
   creditlink: 
 ---
 
-I am a second year DPhil student in the Department of Earth Sciences, Oxford. I am funded by NERC on the Environmental Research Doctoral Training Programme (DTP). My project will focus on the relationships of Pelagia and investigate their rates of evolution and radiation after the Cretaceous-Palaeogene boundary using both fossil and modern data. 
+I am a third year DPhil student in the Department of Earth Sciences, Oxford. I am funded by NERC on the Environmental Research Doctoral Training Programme (DTP). My project focuses on the relationships of fossil and living Pelagia and investigate their rates of evolution and radiation after the Cretaceous-Palaeogene boundary using both fossil and modern data. 
 
 <br/> 
 

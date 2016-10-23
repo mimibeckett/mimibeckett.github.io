@@ -13,7 +13,7 @@ image:
 
 "Pelagia (Teleostei: Acanthomorpha) as a non-analogue adaptive radiation." 
 
-*Supervisors: Dr Matt Friedman and Dr Zerina Johanson*
+*Supervisors: Dr Matt Friedman, Dr Zerina Johanson and Dr Sam Giles*
 
 <br/>
 
